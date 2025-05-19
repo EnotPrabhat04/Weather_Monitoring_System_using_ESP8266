@@ -19,6 +19,7 @@ OLED Display Connections (I2C Interface):-The oled.begin(); function initializes
 
 
 **How It Works:-**
+
 The DHT11 sensor collects temperature and humidity data from the environment.
 
 The microcontroller reads this data and prints it to the serial monitor for debugging or logging.
@@ -28,6 +29,7 @@ Simultaneously, the data is displayed on an OLED screen using the I2C interface.
 The display updates every second with the latest values.
 
 **Key Features:-**
+
 Real-time monitoring of temperature and humidity.
 
 Clear and compact OLED display output.
@@ -37,6 +39,7 @@ Serial output for testing and data logging.
 Simple and cost-effective setup using basic components.
 
 **Applications:-**
+
 Indoor climate monitoring
 
 Smart home systems
